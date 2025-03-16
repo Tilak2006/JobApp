@@ -1,0 +1,10 @@
+
+
+.pixel-container {
+  display: flex;
+  justify-content: center; /* Centers horizontally */
+  align-items: center; /* Centers vertically */
+  gap: 70px; /* Space between cards */
+  height: 100vh; /* Takes full viewport height */
+}
+
